@@ -18,4 +18,3 @@ System.register(['aurelia-binding'], function (_export, _context) {
     }
   };
 });
-//# sourceMappingURL=index.js.map

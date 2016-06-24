@@ -30,4 +30,3 @@ System.register([], function (_export, _context) {
     }
   };
 });
-//# sourceMappingURL=scaffold.js.map
